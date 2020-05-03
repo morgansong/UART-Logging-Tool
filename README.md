@@ -1,6 +1,6 @@
 "# UART-Logging-Tool" 
 
 
-![Interface](https://github.com/morgansong/UART-Logging-Tool/blob/master/GUI_Interface.png)
+![UI](https://raw.githubusercontent.com/morgansong/UART-Logging-Tool/master/GUI_Interface.png)
 
 
